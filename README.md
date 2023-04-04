@@ -4,7 +4,7 @@ This is a machine learning model that I created to predict the outcome of NBA ga
 
 Future work on this model will include a system by which the model predicts games before they happen, given average stats from recent games. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kpzuFPQAQjM)
 
 # Development Environment
 
