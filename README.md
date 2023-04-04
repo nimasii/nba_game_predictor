@@ -10,7 +10,7 @@ Future work on this model will include a system by which the model predicts game
 
 I coded this projcet using a jupyter notebook and python in VScode.
 
-I also used scikit learn, pandas, and matplot as libraries
+I also used scikit learn and pandas as libraries
 
 # Useful Websites
 
